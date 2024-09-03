@@ -116,4 +116,5 @@ int main(void)
 	printLists(head_ref, dup); 
 
 	return 0; 
+}
 
